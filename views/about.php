@@ -1,0 +1,1 @@
+<h1>Hakkımızda</h1><p>Bu basit bir routing örneğidir.</p>
